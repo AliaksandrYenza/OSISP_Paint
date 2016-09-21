@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Point.cpp
+  Paint.cpp
+d:\teach\labs\5sem\осисп\paint\paint\paint.cpp(356): warning C4018: <: несоответствие типов со знаком и без знака
+d:\teach\labs\5sem\осисп\paint\paint\paint.cpp(393): warning C4101: pBitmap: неиспользованная локальная переменная
+  Line.cpp
+  Создание кода...
+Line.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  Paint.vcxproj -> D:\teach\labs\5sem\ОСИСП\Paint\Debug\Paint.exe
